@@ -1,1 +1,7 @@
+ul {
+    display: inline-block;
+    text-align: center;
+    z-index: 10;
+    list-syle-type: none;
+}
 
