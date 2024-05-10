@@ -38,3 +38,37 @@ main {
   font-size: 30px;
   font-color:
 }
+.Arabica {
+  background-color: #9EB599;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.Arabica h2 {
+  text-align: left;
+}
+.Robusta {
+  background-color:  #683C2C;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  position: relative;
+}
+.Robusta h2 {
+  text-align: left;
+}
+.Liberica {
+ background-color: #4C352D; 
+ padding-left: 25px;
+padding-right: 25px;
+}
+.Liberica h2 {
+  text-align: left;
+}
+.Excelsa {
+   background-color: #352926; 
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.Excelsa h2 {
+    text-align: left;
+}
