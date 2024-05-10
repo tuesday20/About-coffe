@@ -8,15 +8,18 @@ ul {
     width: 99%
   }
   #h1 {
-    color: darkbleu;
+    color: rgb(55, 94, 151);
     text-align: center;
     font-size: 100px;
     position: relative;
-    background-color: rgba(252, 231, 212, 0.50);
+    background-color: rgba(231, 232, 209,0.9);
     top: 40%;
+    font-family: "Merienda", cursive;
+    font-weight: wight; 
  }
+
   body {
-    background-color: #f7d5c4;
+    background-color: rgb(231, 232, 209);
   }
 .top-arabica,
 .top-robusta,
@@ -26,49 +29,110 @@ ul {
   text-align: center;
   margin-top:15px;
   display: inline-block;
-  color: rgba(227, 104, 43, 1);;
+  color: rgba(227, 104, 43, 1);
 }
 main {
   text-align: center;
   margin: 60px 70px;
   padding: 30px 40px 30px 40px;
   background-color: #FFFFFF;
+  border-radius: 3px;
 }
 .types {
-  font-size: 30px;
-  font-color:
+  font-size: 50px;
+  font-family: 'Balsamiq Sans', sans-serif;
+  font-weight: 700;
+}
+.welcome {
+  font-size: 25px;
+  font-family: 'Balsamiq Sans', sans-serif;
+  font-weight: 400;
+}
+.welcome p {
+  padding-bottom: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
+  position: relative;
 }
 .Arabica {
   background-color: #9EB599;
   padding-left: 25px;
   padding-right: 25px;
+  padding-top: 5px;
+  padding-bottom: 11px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
 }
+
 .Arabica h2 {
-  text-align: left;
+   text-align: left;
+   font-family: "Protest Revolution", sans-serif;
+   font-weight: 400;
+   font-size: 50px;
+   color: white;
+}
+.Arabica p{
+  font-size: 25px;
+  font-family: 'Balsamiq Sans', sans-serif;
+  color: white;
 }
 .Robusta {
   background-color:  #683C2C;
   padding-left: 25px;
   padding-right: 25px;
-  padding-top: 10px;
-  position: relative;
+  padding-top: 5px;
+  padding-bottom: 11px;
 }
 .Robusta h2 {
-  text-align: left;
+   text-align: left;
+   font-family: "Rubik Moonrocks", sans-serif;
+   font-weight: 400;
+   font-size: 50px;
+   color: white;
+   }
+.Robusta p {
+     font-size: 25px;
+     font-family: 'Balsamiq Sans', sans-serif;
+     color: white;
 }
 .Liberica {
  background-color: #4C352D; 
  padding-left: 25px;
-padding-right: 25px;
+ padding-right: 25px;
+ padding-top: 5px;
+ padding-bottom: 11px;
 }
 .Liberica h2 {
-  text-align: left;
+   text-align: left;
+   font-family:"Rowdies", sans-serif;
+   font-weight: 400;
+   font-size: 50px;
+   color: white;
 }
+.Liberica p {
+  font-size: 25px;
+  font-family: 'Balsamiq Sans', sans-serif;
+  color: white;
+}
+
 .Excelsa {
-   background-color: #352926; 
+  background-color: #352926; 
   padding-left: 25px;
   padding-right: 25px;
+  padding-top: 5px;
+  padding-bottom: 11px;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
 }
 .Excelsa h2 {
-    text-align: left;
+  text-align: left;
+  font-family: "Aladin", system-ui;
+  font-weight: 400;
+  font-size: 50px;
+  color: white;
+}
+.Excelsa p{
+  font-size: 25px;
+  font-family: 'Balsamiq Sans', sans-serif;
+  color: white;
 }
