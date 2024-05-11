@@ -190,9 +190,9 @@
 }
 .roasting-robusta h3 {
   font-family: 'Balsamiq Sans', sans-serif;
-  color: #683C2C;
+  color: #4C352D;
 }
-.roasting-ribusta p {
+.roasting-robusta p {
   font-family: 'Balsamiq Sans', sans-serif;
   font-size: 20px;
 }
@@ -212,8 +212,12 @@
 }
 .roasting-liberica h3 {
   font-family: 'Balsamiq Sans', sans-serif;
-  color: #4C352D;
+  color: #683C2C;
 }
+  .roasting-liberica p {
+    font-family: 'Balsamiq Sans',sans-serif;
+    font-size: 20px;
+  }
 .roasting-excelsa {
   text-align: center;
   border: 2px solid black;
@@ -231,6 +235,10 @@
 .roasting-excelsa h3 {
    font-family: 'Balsamiq Sans', sans-serif;
    color: #9EB599; 
+}
+.roasting-excelsa p {
+  font-family: 'Balsamiq Sans',sans-serif;
+  font-size: 20px;
 }
 footer {
   background-color: green;
