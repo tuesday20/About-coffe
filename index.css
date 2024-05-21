@@ -24,10 +24,11 @@
     text-decoration: none;
   }
   .header {
-    background-image: url("https://assets.bonappetit.com/photos/5c366551f212512d0e6cefd0/16:9/w_2560%2Cc_limit/Basically-Coffee-0219-03.jpg");
-    height: 750px;
-    width: 100%
-  }
+    background-image: url("https://as2.ftcdn.net/jpg/02/81/56/25/480_F_281562533_gvEKxMVjTgjOTBvWqjYoFG5D80GCiw7E.jpg?token=1717463018_TdnLv69g-kZf-vJMQ768dx88JClWiGwolRusKWClKww");
+    height: 100vh;
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat;
   #h1 {
     color: rgb(55, 94, 151);
     text-align: center;
